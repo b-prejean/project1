@@ -1,0 +1,65 @@
+
+ h6 {
+  text-transform: uppercase;
+  color: #ffc4b0;
+  font-weight: bold;
+}
+ h2 {
+  text-transform: uppercase;
+  color: #355c7d;
+  font-weight: bold;
+}
+     #pad{
+    width: 70px;
+            margin-bottom:40px;
+ }
+ body {
+  color: #355c7d;
+}
+
+/********** Large **********/
+
+
+.row {
+  margin-bottom: 30px;
+  margin-top: 15px;
+  margin-left: 30px;
+  margin-right:30px;
+  width:100%;
+}
+.row > div {
+  border: 2px solid #355c7d;
+  background-color: #F8B195;
+  margin-bottom: 30px;
+  margin-top: 15px;
+  margin-left: 30px;
+  margin-right:30px;
+    padding-bottom:15px;
+}
+
+    #topbit1{
+    width: 70px;
+    border: 2px solid #355c7d;
+	position: absolute;
+	right:0px;
+	top:0px;
+      background-color: #f67280;
+      margin-bottom:20px;
+ }
+     #topbit2{
+    width: 70px;
+    border: 2px solid #355c7d;
+	position: absolute;
+	right:0px;
+	top:0px;
+     background-color: #c06c84;
+ }
+     #topbit3{
+    width: 70px;
+    border: 2px solid #355c7d;
+	position: absolute;
+	right:0px;
+	top:0px;
+      background-color: #6c5b7b;
+            margin-bottom:20px;
+ }
